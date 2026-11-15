@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gameverse-store-tn.netlify.app/sitemap.xml
